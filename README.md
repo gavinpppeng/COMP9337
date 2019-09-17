@@ -1,2 +1,2 @@
-# COMP9337
+# COMP9337 19T1
 Securing Wireless Networks
